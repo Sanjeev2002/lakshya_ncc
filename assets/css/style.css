@@ -675,6 +675,7 @@ h1, h2, h3, h4, h5, h6 {
 font-size: 18px;
  margin-bottom: 20px;
   color: #fff;
+  text-align: justify;
 }
 
 # about img{top: 0px; left: 30px;} #about h2 {
@@ -1279,8 +1280,9 @@ font-size: 18px;
   margin: 0;
 }
 
-#buy-tickets .card ul li {
+#buy-tickets .card {
   margin-bottom: 20px;
+  text-align: justify;
 }
 
 #buy-tickets .card .text-muted {
